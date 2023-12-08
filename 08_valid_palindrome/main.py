@@ -16,5 +16,5 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    i = "race a car"
+    i = "race car"
     print(s.isPalindrome(i))

@@ -27,11 +27,11 @@ class Solution:
 if __name__ == "__main__":
     # Your main program logic goes here
     
-    # nums = [2,7,11,15]
-    # target = 9
+    nums = [2,7,11,15]
+    target = 56
     
-    nums = [3,2,4]
-    target = 6
+    # nums = [3,2,4]
+    # target = 6
 
 
     solution = Solution()
